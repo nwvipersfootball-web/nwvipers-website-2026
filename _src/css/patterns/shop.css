@@ -1,0 +1,32 @@
+.shop {
+    padding-block-end: var(--core--spacing-4xl);
+    h2 {
+        font: var(--sem--typo-headline-sm);
+    }
+    .card--shop {
+        display: flex;
+        gap: var(--core--spacing-2xl);
+        align-items: center;
+        :hover .headline {
+            color: var(--sem--color-link-hover);
+        }
+    }
+    p {
+        margin: 0;
+    }
+    .logo-FootballAmerica {
+        height: 80px;
+    }
+    .headline {
+        font: var(--sem--typo-title-lg);
+        color: var(--sem--color-link);
+    }
+}
+
+@container contentWrap (max-width: 640px) {
+    .shop {
+        .card--shop {
+            flex-direction: column;
+        }
+    }
+}
