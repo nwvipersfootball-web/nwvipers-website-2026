@@ -2,10 +2,36 @@ import Image from "@11ty/eleventy-img";
 import path from "node:path";
 import fs from "fs";
 import { HtmlBasePlugin } from "@11ty/eleventy";
+import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 
 export default function (eleventyConfig) {
     // Configure Eleventy
     eleventyConfig.addPlugin(HtmlBasePlugin);
+    eleventyConfig.addCollection("newsFeed", (api) => {
+        const now = new Date();
+        return api.getFilteredByTag("news")
+            .filter((item) => item.date <= now)
+            .sort((a, b) => b.date - a.date);
+    });
+
+    eleventyConfig.addPlugin(feedPlugin, {
+        type: "atom",
+        outputPath: "/news/feed.xml",
+        collection: {
+            name: "newsFeed",
+            limit: 20,
+        },
+        metadata: {
+            language: "en",
+            title: "Northwest Vipers News",
+            subtitle: "News, match reports and updates from the Northwest Vipers American Football Club",
+            base: "https://www.northwestvipers.com/",
+            author: {
+                name: "Northwest Vipers",
+                email: "media@northwestvipers.com",
+            },
+        },
+    });
     // Directories
     eleventyConfig.setInputDirectory("_src");
     eleventyConfig.setIncludesDirectory("_includes");
