@@ -44,6 +44,9 @@
     --sem--color-outline: var(--core--color-ui-neutral-n020);
     --sem--color-outline-variant: var(--core--color-ui-neutral-n080);
 
+    --sem--color-link: var(--core--color-ui-secondary-s080);
+    --sem--color-link-hover: var(--core--color-ui-secondary-s099);
+
     /* Typography */
     --sem--typo-display-lg: var(--util--font-weight-light) var(--core--font-size-8xl) var(--core--font-family-heading);
     --sem--typo-display-md: var(--util--font-weight-light) var(--core--font-size-7xl) var(--core--font-family-heading);
