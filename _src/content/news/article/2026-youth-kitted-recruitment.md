@@ -25,7 +25,7 @@ All matches are played on every other Sunday at the [Sport Ireland Campus](https
 Come ready to train with boots and a gum shield. We'll have some kit to loan out to get you going.
 
 ## Club Fees
-Fees for the year are £50. This goes to maintenance and equipment to help keep the club running. You can speak with the coaches on how feeds get paid.
+Fees for the year are £50. This goes to maintenance and equipment to help keep the club running. You can speak with the coaches on how fees get paid.
 
 ## Get in Touch
 No experience necessary, so come and see what it's all about. [Join us](/contact/).
