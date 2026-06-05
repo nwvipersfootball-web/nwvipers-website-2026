@@ -8,15 +8,15 @@ tags:
 - "news"
 - "mixed-flag"
 date: 2026-06-05
-image: /articles/2026-youth-recruitment.jpeg
+image: /articles/2026-mixed-flag-recruitment.png
 ---
 
 ![Now Recruiting for our Mixed Flag Football Team]({{ image | prepend: '/assets/images/news' }})
 
-# Come and join the Youth Kitted squad
+# Come and Join Our Mixed Flag Football Squad
 
 ## Training
-Starting June 20th at 10am until 12pm at the Vale Centre, Greysteel. Then training will be every Saturday with the first gameday taking place in August. Games are played on Saturdays.
+Starting June 20th at 10am until 12pm at the Vale Centre, Greysteel. Then training will be every Saturday with the first gameday taking place in August. Games are played on Saturdays.Training is open to anyone aged 16+ regardless of experience or gender. This is a mixed gendered league.
 
 ## Matches
 All matches are played on Saturdays. The AFI Mixed Flag Schedule has not be confirmed yet. 
