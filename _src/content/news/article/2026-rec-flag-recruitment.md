@@ -7,7 +7,7 @@ squad: "mixed-flag"
 tags:
 - "news"
 - "mixed-flag"
-date: 2026-06-04
+date: 2026-06-10
 image: /articles/2026-rec-flag-recruitment.png
 ---
 
