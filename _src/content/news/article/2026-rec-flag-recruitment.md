@@ -25,7 +25,7 @@ Participants should bring suitable footwear (boots or trainers) and a water bott
 There is no registration process required. Simply arrive on the day, complete a short participation waiver, and join in. Sessions are designed to be welcoming and easy to access for all members.
 
 ## Who Should Attend?
-Open to all Northwest Vipers members, from experienced players to complete beginners. Whether you're looking to stay active, learn the game, or reconnect with the club in a relaxed setting, everyone is encouraged to take part.
+Open to everyone aged 16+, from experienced players to complete beginners. Whether you're looking to stay active, learn the game, or reconnect with the club in a relaxed setting, everyone is encouraged to take part.
 
 ## Why Flag Football?
 Flag football is a non-contact version of American football that focuses on skill, teamwork, and enjoyment. It provides an excellent introduction to the sport while offering a fun and social way to stay active throughout the summer.
