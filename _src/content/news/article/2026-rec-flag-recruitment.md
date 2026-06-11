@@ -1,7 +1,7 @@
 ---
 layout: page
 bodyClassName: news-article
-title: Join our Recreational Flag Football 
+title: Join our Recreational Flag Football League
 subtitle: A fun and social way to stay active, learn the game, and enjoy flag football.
 squad: "mixed-flag"
 tags:
