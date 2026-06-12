@@ -3,7 +3,7 @@ layout: page
 bodyClassName: news-article
 title: Join our Recreational Flag Football League
 subtitle: A fun and social way to stay active, learn the game, and enjoy flag football.
-squad: "mixed-flag"
+squad: false
 tags:
 - "news"
 - "mixed-flag"
@@ -17,6 +17,8 @@ image: /articles/2026-rec-flag-recruitment.png
 
 ## How It Works
 This recreational flag football programme is designed to be fun, inclusive, and accessible to all. Teams will be formed each week based on attendance, creating a flexible environment where everyone has the opportunity to participate, regardless of experience or ability.
+
+This will be separate from our competitive Mixed Flag squad. The rec league will always play at the Vale Centre.
 
 ## What to Bring
 Participants should bring suitable footwear (boots or trainers) and a water bottle. Gum shields are recommended for added safety but are not essential. All flag football equipment, including flags and belts, will be provided.
