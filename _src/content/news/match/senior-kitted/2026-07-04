@@ -1,0 +1,42 @@
+---
+layout: page
+bodyClassName: "news-article"
+title: "Vipers vs. Rhinos"
+subtitle: "Match Report"
+opponent: "west-dublin-rhinos"
+squad: "senior-kitted"
+type: "league"
+home: true
+location: " "
+date: 2026-07-04
+time: 14:00
+tags:
+ - "match"
+ - "news"
+ - "senior-kitted"
+result: 
+score: 
+image:
+---
+
+# [Headline]
+
+![Vipers in action]({{ image | prepend: '/assets/images/news'  }})
+
+## Match Snapshot
+| | |
+| --- | --- |
+| Date | Sunday, July 4th 2026 |
+| Gameweek | AFI Senior Kitted Harp Bowl Semi Final |
+| Opponent | West Dublin Rhinos |
+| Venue | |
+| Final Score | |
+| Season Record | |
+
+## Opening Overview
+
+## Second Half Summary
+
+## Key Performers
+
+## Closing & Next Fixture
