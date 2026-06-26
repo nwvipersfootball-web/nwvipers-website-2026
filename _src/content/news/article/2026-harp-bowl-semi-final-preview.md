@@ -16,7 +16,7 @@ image: /articles/2026-harp-bowl-semi-final-preview.png
 # Northwest Vipers Set for Harp Bowl Semi-Final Showdown Against West Dublin Rhinos
 
 ## Overview
-Te Northwest Vipers are calling on the entire community to get behind the team as they host the biggest game in the club's history to date.
+The Northwest Vipers are calling on the entire community to get behind the team as they host the biggest game in the club's history to date.
 
 On **Saturday 4th July**, the Vipers welcome the **West Dublin Rhinos to City of Derry RFC** for the **AFI Division One Harp Bowl Semi-Final**, with kick-off scheduled for **2:00pm.**
 
