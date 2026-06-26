@@ -1,7 +1,7 @@
 ---
 layout: page
 bodyClassName: news-article
-title: Northwest Vipers Set for Harp Bowl Semi-Final Showdown Against West Dublin Rhinos
+title: Northwest Vipers vs. Rhinos Gameday Preview
 subtitle: Support the Northwest Vipers Senior kitted Team!
 squad: "senior-kitted"
 tags:
