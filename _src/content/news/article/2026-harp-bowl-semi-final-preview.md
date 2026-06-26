@@ -8,7 +8,7 @@ tags:
 - "news"
 - "senior-kitted"
 date: 2026-06-25
-image:
+image: /articles/2026-harp-bowl-semi-final-preview.png
 ---
 
 ![Vipers vs. Rhinos Match Preview]({{ image | prepend: '/assets/images/news' }})
