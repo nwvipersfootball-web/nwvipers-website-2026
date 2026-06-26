@@ -54,8 +54,8 @@ Bring your family, bring your friends, enjoy everything the Family Fun Day has t
 **Northwest Vipers vs West Dublin Rhinos
 AFI Division One Harp Bowl Semi-Final
 Saturday 4th July
-Kick-off: 2:00pm
-Venue: City of Derry RFC**
+Kick-off: 2:00pm**
+[Venue: City of Derry RFC](https://maps.app.goo.gl/5qGfi7cb9SKiaK9P9)
 
 See you there as we pack the sidelines and help the Vipers take one step closer to Harp Bowl glory.
 
