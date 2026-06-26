@@ -2,7 +2,7 @@
 layout: page
 bodyClassName: news-article
 title: Northwest Vipers vs. Rhinos Gameday Preview
-subtitle: Support the Northwest Vipers Senior kitted Team!
+subtitle: Support the Northwest Vipers Senior Kitted Team!
 squad: "senior-kitted"
 tags:
 - "news"
